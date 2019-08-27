@@ -1,0 +1,9 @@
+.main {
+  color: red;
+  text-align: center;
+  margin: 0 auto;
+  &__test {
+    color: blue;
+    user-select: none;
+  }
+}
